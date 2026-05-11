@@ -84,9 +84,7 @@ java Main
 
 ---
 
-## Auteur
 
-Projet réalisé dans le cadre d’un exercice Java.
 
 
 
