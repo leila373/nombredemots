@@ -1,6 +1,8 @@
 # nombredemots 
 
 
+
+
 ## Description
 
 Ce projet Java permet de compter le nombre total de mots présents dans un fichier texte.
@@ -35,7 +37,7 @@ Le programme :
 
 ## Structure du projet
 
-
+```text id="o67p4h"
 WordCounter/
 │
 ├── src/
@@ -60,7 +62,7 @@ Ce programme compte les mots
 
 ## Exemple de résultat
 
-
+```text id="2t4d9z"
 Nombre total de mots : 13
 ```
 
@@ -70,17 +72,22 @@ Nombre total de mots : 13
 
 ### Compiler le programme
 
-
+```bash id="l98x4u"
 javac Main.java
 ```
 
 ### Exécuter le programme
 
-
+```bash id="qt8f1k"
 java Main
 ```
 
 ---
+
+## Auteur
+
+Projet réalisé dans le cadre d’un exercice Java.
+
 
 
 
